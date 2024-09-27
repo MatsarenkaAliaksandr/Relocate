@@ -1,0 +1,113 @@
+[
+  {
+    "keyboard_name": "main",
+    "buttons": [
+      {
+        "id": "1",
+        "name": "Переезд",
+        "to_print": "Переезд",
+        "next_keyboard": "Переезд1"
+      },
+      {
+        "id": "2",
+        "name": "Путешествие",
+        "to_print": "Путешествие",
+        "next_keyboard": "Путешествие1"
+      },
+      {
+        "id": "3",
+        "name": "Образование",
+        "to_print": "Образование",
+        "next_keyboard": "Образование1"
+      },
+      {
+        "id": "4",
+        "name": "Работа",
+        "to_print": "Работа",
+        "next_keyboard": "Работа1"
+      },
+      {
+        "id": "5",
+        "name": "Перейти на сайт",
+        "to_print": "Перейти на сайт"
+      },
+      {
+        "id": "6",
+        "name": "Соц сети",
+        "to_print": "Соц сети",
+        "next_keyboard": "Соц сети1"
+      }
+    ]
+  },
+  {
+    "keyboard_name": "Переезд1",
+    "buttons": [
+      {
+        "id": "101",
+        "name": "Экология",
+        "to_print": "Экология",
+        "next_keyboard": "Переезд"
+      },
+      {
+        "id": "102",
+        "name": "Медицина",
+        "to_print": "Медицина",
+        "next_keyboard": "Переезд"
+      },
+      {
+        "id": "103",
+        "name": "Заработная плата",
+        "to_print": "Заработная плата",
+        "next_keyboard": "Переезд"
+      },
+      {
+        "id": "104",
+        "name": "Медицина",
+        "to_print": "Медицина",
+        "next_keyboard": "Переезд"
+      },
+      {
+        "id": "105",
+        "name": "Медицина",
+        "to_print": "Медицина",
+        "next_keyboard": "Переезд"
+      }
+    ]
+  },
+  {
+    "keyboard_name": "Путешествие1",
+    "buttons": [
+      {
+        "id": "201",
+        "name": "Интернет",
+        "to_print": "Интернет",
+        "next_keyboard": "Путешествие"
+      },
+      {
+        "id": "201",
+        "name": "Home",
+        "to_print": "Вы вернулись в главное меню",
+        "next_keyboard": "main"
+      }
+    ]
+  },
+  {
+    "keyboard_name": "Italy1",
+    "buttons": [
+      {
+        "id": "300",
+        "name": "Кока и кола",
+        "price": "2",
+        "size": "250",
+        "to_print": "Просто кока-кола",
+        "next_keyboard": "Italy1"
+      },
+      {
+        "id": "301",
+        "name": "Home",
+        "to_print": "Вы вернулись в главное меню",
+        "next_keyboard": "main"
+      }
+    ]
+  }
+]
