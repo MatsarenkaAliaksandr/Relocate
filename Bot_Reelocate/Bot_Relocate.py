@@ -4,7 +4,7 @@ import json
 from telebot import types
 
 
-bot = telebot.TeleBot('7484203784:AAGB8lf8qSwGq9wlObdxyDr1xt-qM_qD17c')
+bot = telebot.TeleBot('TOKEN')
 API = "http://134.17.16.177/api/v1/country"
 country = ['Poland', 'United States', 'France', 'Germany']
 countries = ['Польша', 'США', 'Франция', 'Германия', 'Вернуться в главное меню']
